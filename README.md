@@ -4,12 +4,12 @@
 
 Tema principal es el uso de la funcion de Media Query,
 para visualizar su contenido segun el tamaño de cada
-dispositivo, es decir, ya sea por Pantalla de Laptop, 
-Tables o Smartphone.
+dispositivo, llamase Smartphone pequeño, Smartphone grande, 
+Tablet, Laptop, Escritorio, etc.
 
 - Link Repository
   - https://github.com/vn-vrgs/CarStore.git
 - Link Deploy
-  - 
+  - https://github.com/vn-vrgs
   
   
