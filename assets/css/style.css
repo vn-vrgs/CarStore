@@ -33,11 +33,14 @@ body {
 }
 
 .logo {
-    background-color: blue;
-    color: white;
     display: flex;
     align-items: center;
     gap: 10px;
+}
+
+.logo h2 {
+    background-color: blue;
+    color: white;
 }
 
 .menu-mobile {
@@ -186,6 +189,11 @@ body {
         justify-content: flex-start;
         align-items: flex-start;
         gap: 30px;
+    }
+
+    .logo h2 {
+        background-color: blue;
+        color: white;
     }
 
     .menu-mobile {
